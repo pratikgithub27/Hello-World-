@@ -4,4 +4,5 @@ This is Hello World Program Written in C Language
 void main()
 {
   print("Hello World...!!!");
+printf("\nThis is the basic C Program");
 }
